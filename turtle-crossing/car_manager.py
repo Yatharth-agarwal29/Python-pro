@@ -20,8 +20,8 @@ class CarManager:
         newcar.goto(300,car_y)
         self.all_cars.append(newcar)
 
-    def move_car(self);
-        for car in self.all_cars:
-            car.backward(STARTING_MOVE_DISTANCE)
-            
+   # def move_car(self);
+     #   for car in self.all_cars:
+    #        car.backward(STARTING_MOVE_DISTANCE)
+
             
