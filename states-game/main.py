@@ -66,7 +66,7 @@ if answer == "India":
 else:
     U_S_states_game()
 
-
+# funtion to check the co-odinates on screen 
 # screen.exitonclick()
 
 # listx_y=[]
